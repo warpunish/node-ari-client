@@ -1,4 +1,5 @@
 [![build status][build_image]][build]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwarpunish%2Fnode-ari-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwarpunish%2Fnode-ari-client?ref=badge_shield)
 
 # node-ari-client
 
@@ -3376,3 +3377,6 @@ Apache, Version 2.0. Copyright (c) 2014, Digium, Inc. All rights reserved.
 
 [build]: https://travis-ci.org/asterisk/node-ari-client
 [build_image]: https://travis-ci.org/asterisk/node-ari-client.svg?branch=master
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwarpunish%2Fnode-ari-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwarpunish%2Fnode-ari-client?ref=badge_large)
